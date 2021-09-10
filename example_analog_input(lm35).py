@@ -9,3 +9,6 @@ while True:
     temp = volt * 100 # Για τον LM35 ισχύει: temperature/1 = voltage/0,01 -> temperature = voltage*100
     print(temp)
     time.sleep(1)
+
+
+
