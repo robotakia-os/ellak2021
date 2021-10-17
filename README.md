@@ -16,5 +16,4 @@
 •	Σύστημα συναγερμού το οποίο βασίζεται στην αναγνώριση αντικειμένων. Πιο συγκεκριμένα, ο συναγερμός ενεργοποιείται μόλις κάποιος άνθρωπος καταγραφεί από την κάμερα του συστήματος και όχι από κάποιον αισθητήρα PIR.
 
 
-Δείτε την ιστοσελίδα του έργου μας στον παρακάτω σύνδεσμο:
-https://openedtech.ellak.gr/robotics2021/robotakia-open-source-effies-spiti-filiko-pros-ta-katikidia/
+Η ιστοσελίδα του έργου μας: https://openedtech.ellak.gr/robotics2021/robotakia-open-source-effies-spiti-filiko-pros-ta-katikidia/
